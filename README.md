@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LewisdeZ
 - 👀 I’m interested in astronomy, computer vision and human-robot teaming
 - 🌱 I’m currently undertaking my PhD in information and communication technology at Swinburne University of Technology
-- 🔬 My research area is human action recognition to support natural human-robot interaction
+- 🔬 My research area is human action intent recognition to support natural human-robot interaction
 - 💞️ I’m looking to collaborate on Python projects relating to computer vision and human action recognition
 - 📫 How to reach me  - student email: 101606593@student.swin.edu.au
 
